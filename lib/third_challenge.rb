@@ -28,7 +28,7 @@ def third_challenge
           attitude: "hot-headed"
         }
       ]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         #your key/value pairs here
@@ -61,5 +61,5 @@ def third_challenge
    }
   }
 
-  
+
 end
